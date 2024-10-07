@@ -25,7 +25,7 @@ How to use:
     *Run the script.
     *It will retrieve the files with specified extensions from the URL and print their links.
 
-Example usage for list_files_with_extensions.py:
+Example usage for dir.py:
 
     URL: https://archive.org/details/0-1-aky
     Extensions: .html, .txt, .pdf, .gif, .xml, .htm, .sqlite, .torrent, .gz, .zip, .json, .epub, .jpg, .png, .svg, .mp3, .mp4, .csv, .php

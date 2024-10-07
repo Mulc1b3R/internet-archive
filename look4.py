@@ -26,6 +26,6 @@ def generate_hyperlinks(input_file, output_file):
         file_out.write('</ul>')  # End the unordered list in HTML
 
 input_file = f"{search_query}.txt"  # Input file matching search query output
-output_file = "html/hyperlinks.html"  # Output HTML file for hyperlinks
+output_file = f"html/{search_query}.html"  # Output HTML file for hyperlinks
 
 generate_hyperlinks(input_file, output_file)
